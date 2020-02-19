@@ -1,0 +1,8 @@
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.Entities\bin\Debug\netcoreapp3.1\Mentor.Entities.deps.json
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.Entities\bin\Debug\netcoreapp3.1\Mentor.Entities.dll
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.Entities\bin\Debug\netcoreapp3.1\Mentor.Entities.pdb
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.Entities\obj\Debug\netcoreapp3.1\Mentor.Entities.AssemblyInfoInputs.cache
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.Entities\obj\Debug\netcoreapp3.1\Mentor.Entities.AssemblyInfo.cs
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.Entities\obj\Debug\netcoreapp3.1\Mentor.Entities.dll
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.Entities\obj\Debug\netcoreapp3.1\Mentor.Entities.pdb
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.Entities\obj\Debug\netcoreapp3.1\Mentor.Entities.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.DataLayer\bin\Debug\netcoreapp3.1\Mentor.DataLayer.deps.json
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.DataLayer\bin\Debug\netcoreapp3.1\Mentor.DataLayer.dll
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.DataLayer\bin\Debug\netcoreapp3.1\Mentor.DataLayer.pdb
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.DataLayer\bin\Debug\netcoreapp3.1\Mentor.Entities.dll
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.DataLayer\bin\Debug\netcoreapp3.1\Mentor.Entities.pdb
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.DataLayer\obj\Debug\netcoreapp3.1\Mentor.DataLayer.csprojAssemblyReference.cache
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.DataLayer\obj\Debug\netcoreapp3.1\Mentor.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.DataLayer\obj\Debug\netcoreapp3.1\Mentor.DataLayer.AssemblyInfo.cs
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.DataLayer\obj\Debug\netcoreapp3.1\Mentor.DataLayer.csproj.CopyComplete
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.DataLayer\obj\Debug\netcoreapp3.1\Mentor.DataLayer.dll
+C:\Users\Bhuvaneswari\source\repos\L2-MentorOnDemand\Mentor.DataLayer\obj\Debug\netcoreapp3.1\Mentor.DataLayer.pdb
